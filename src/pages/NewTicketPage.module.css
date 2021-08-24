@@ -1,0 +1,84 @@
+.main {
+    position: absolute;
+    width: 1163px;
+    height: 650px;
+    left: 367px;
+    top: 215px;
+    background: #F2F2F2;
+}
+
+.main .error {
+    top: 200px;
+    color: #D90718;
+}
+
+.main p {
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    text-align: center;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+
+.branch {
+    position: absolute;
+    top: 30px;
+    width: 535px;
+    height: 100px;
+    left: 200px;
+}
+
+.navigation {
+    position: absolute;
+    top: 50px;
+    width: 150px;
+    height: 50px;
+    left: 800px;
+}
+
+.navigation span {
+    font-size: 18px;
+}
+
+.submit {
+    position: absolute;
+    width: 150px;
+    left: 670px;
+    height: 45px;
+    top: 540px;
+}
+
+.submit span {
+    position: relative;
+    vertical-align: center;
+    top:-6px;
+    font-size: 18px;
+}
+
+.back {
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 370px;
+    top: 540px;
+}
+
+.back span{
+    position: relative;
+    vertical-align: center;
+    top:-6px;
+    font-size: 18px;
+}
+
+
+.selector {
+    position: absolute;
+    width: 400px;
+    height: 40px;
+    left: 380px;
+    top: 300px;
+}

@@ -1,0 +1,19 @@
+.svg{
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 36px;
+    left: 265px;
+    top: 11px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.path{
+    fill: transparent;
+    stroke: rgba(242,242,242,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}

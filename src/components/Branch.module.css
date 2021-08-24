@@ -1,0 +1,78 @@
+.branch {
+}
+
+.title {
+    left: 30px;
+    bottom: 80px;
+    position: relative;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #BF343F;
+}
+
+.address{
+    width: 200px;
+    bottom: 20px;
+    margin-left: -38px;
+    display: inline-block;
+    position: relative;
+    height: 30px;
+    text-align: left;
+    font-family: Gotham;
+    word-wrap: break-word;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(77,86,89,1);
+}
+
+.queue{
+    left: -200px;
+    display: inline-block;
+    margin-top: 15px;
+    position: relative;
+    overflow: visible;
+    width: 88px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #BF343F;
+}
+
+.distance{
+    left: -100px;
+    top: 0px;
+    position: relative;
+    overflow: visible;
+    width: 38px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #BF343F;
+}
+
+.navigation{
+    position: relative;
+    width: 97px;
+    height: 29px;
+    left: 450px;
+    top: -100px;
+}
+
+.ticket{
+    position: relative;
+    width: 97px;
+    height: 31px;
+    left: 353px;
+    top: -50px;
+}

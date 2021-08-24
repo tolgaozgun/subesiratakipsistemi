@@ -1,0 +1,58 @@
+.input {
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 20px;
+    opacity: 1;
+    width: 522px;
+    height: 55px;
+    line-height: 55px;
+    font-family: Gotham, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+::placeholder{
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 316px;
+    white-space: nowrap;
+    margin-left: 30px;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    left: 29px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 316px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(77,86,89,1);
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    left: 29px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 316px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(77,86,89,1);
+}

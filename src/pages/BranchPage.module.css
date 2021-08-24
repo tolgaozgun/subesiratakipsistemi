@@ -1,0 +1,51 @@
+.ticket-list {
+    position: absolute;
+    width: 1190px;
+    height: 600px;
+    left: 400px;
+    top: 267px;
+    overflow-y: scroll;
+    background: white;
+}
+
+.info {
+    position: absolute;
+    width: 447px;
+    height: 100px;
+    left: 406px;
+    top: 160px;
+}
+
+.queue-length {
+    left: 15px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 235px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(242, 242, 242, 1);
+}
+
+.span-value{
+    left: 310px !important;
+}
+
+.queue-time {
+    left: 0px;
+    top: 50px;
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(242, 242, 242, 1);
+}

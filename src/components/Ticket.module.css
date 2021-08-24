@@ -1,0 +1,126 @@
+.ticket {
+    width: 1107px;
+    height: 179px;
+    background: white;
+    position: relative;
+}
+
+.customer {
+    left: 54px;
+    top: 25px;
+    position: absolute;
+    overflow: visible;
+    width: 184px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(77,86,89,1);
+}
+
+.actions{
+    left: 226px;
+    top: 113px;
+    position: absolute;
+    overflow: visible;
+    width: 204px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(77,86,89,1);
+}
+
+.date{
+    left: 765px;
+    top: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 349px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(77,86,89,1);
+}
+
+.status{
+    left: 400px;
+    top: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 349px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(77,86,89,1);
+}
+
+.queue-id{
+    left: 54px;
+    top: 114px;
+    position: absolute;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(77,86,89,1);
+}
+
+.btn-no-show {
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 680px;
+    top: 100px;
+}
+
+.btn-no-show span {
+    position: relative;
+    vertical-align: center;
+    top: -6px;
+    font-size: 18px;
+}
+
+.btn-complete {
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 840px;
+    top: 100px;
+}
+
+.btn-complete span {
+    position: relative;
+    vertical-align: center;
+    top: -6px;
+    font-size: 18px;
+}
+
+.btn-cancel {
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 1000px;
+    top: 100px;
+}
+
+.btn-cancel span {
+    position: relative;
+    vertical-align: center;
+    top: -6px;
+    font-size: 18px;
+}

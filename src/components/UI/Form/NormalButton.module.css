@@ -1,0 +1,32 @@
+.button {
+    background: #4D5659 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 20px;
+    opacity: 1;
+    width: 109px;
+    height: 33px;
+    line-height: 55px;
+}
+
+.button span {
+    color: #F2F2F2;
+    text-transform: uppercase;
+    left: 22px;
+    bottom: -11px;
+    position: absolute;
+    width: 66px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.button:hover {
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+}
+
+.button:hover span {
+    color: #4D5659;
+}

@@ -1,0 +1,12 @@
+.branch-list ul {
+    left: 10px;
+    list-style: none;
+}
+
+.branch-list{
+    width: 650px;
+}
+
+.branch-list li {
+    margin-top: 30px;
+}

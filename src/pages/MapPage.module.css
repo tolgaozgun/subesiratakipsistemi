@@ -1,0 +1,140 @@
+.left-bar {
+    position: absolute;
+    width: 662px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background-color: #F2F2F2;
+    z-index: 1;
+}
+
+.map {
+    position: relative;
+    width: 65.5%;
+    height: 100%;
+    left: 662px;
+    top: 0px;
+}
+
+.logo {
+    position: absolute;
+    width: 202px;
+    height: 42px;
+    left: 35px;
+    top: 46px;
+}
+
+.username {
+    left: 307px;
+    top: 61px;
+    position: absolute;
+    overflow: visible;
+    width: 205px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    color: #4D5659;
+}
+
+.logout-button {
+    position: absolute;
+    width: 109px;
+    height: 33px;
+    left: 526px;
+    top: 55px;
+    overflow: visible;
+}
+
+.density {
+    position: absolute;
+    width: 490px;
+    height: 30px;
+    left: 55px;
+    top: 151px;
+}
+
+.distance {
+    position: absolute;
+    width: 490px;
+    height: 79px;
+    left: 55px;
+    top: 250px;
+}
+
+.slider {
+    height: 30px;
+    float: left;
+    width: 75%;
+}
+
+.slider-label {
+    float: left;
+    width: 25%;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #BF343F;
+}
+
+.branches {
+    position: absolute;
+    width: 650px;
+    left: 0px;
+    top: 350px;
+}
+
+.branches .title {
+    left: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(191, 52, 63, 1);
+}
+
+.branches .list {
+    top: 40px;
+    position: absolute;
+    height: 550px;
+    overflow-y: scroll;
+}
+
+.my-tickets{
+    position: absolute;
+    left: 240px;
+    top: 330px;
+}
+
+.slider-value {
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: #BF343F;
+}
+
+.btn-toggle {
+    font-family: Gotham !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    width: 100px;
+    height: 50px;
+}
+
+.btn-toggle-group {
+
+    top: 330px;
+    left: 430px;
+    position: absolute;
+}

@@ -1,0 +1,109 @@
+.form{
+    position: absolute;
+    width: 530px;
+    height: 440px;
+    left: 695px;
+    top: 200px;
+    overflow: visible;
+}
+
+.title {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 531px;
+    white-space: nowrap;
+    text-align: left;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.selector{
+    position: absolute;
+    width: 530px;
+    height: 56px;
+    left: 0px;
+    top: 75px;
+    overflow: visible;
+}
+
+.id{
+    position: absolute;
+    width: 522px;
+    height: 55px;
+    left: 4px;
+    top: 173px;
+    overflow: visible;
+}
+
+.pass{
+    position: absolute;
+    width: 522px;
+    height: 55px;
+    left: 4px;
+    top: 285px;
+    overflow: visible;
+}
+
+.customer{
+    left: 62px;
+    top: 11px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.branch{
+    left: 373px;
+    top: 11px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Gotham;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.inactive{
+    color: #9A9A9A !important;
+}
+
+.separator{
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 36px;
+    left: 265px;
+    top: 11px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.continue{
+    position: absolute;
+    width: 522px;
+    height: 55px;
+    left: 4px;
+    top: 385px;
+    overflow: visible;
+}
+
+.register{
+    position: absolute;
+    width: 522px;
+    height: 55px;
+    left: 4px;
+    top: 475px;
+    overflow: visible;
+}
